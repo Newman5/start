@@ -43,6 +43,8 @@ Building on Web3 and the Open web
 
 Environmental Consciousness Paradigm Shift
 
+NOTE: I'm just making it up as I go along.  
+
 ## Areas of Focus
 Cardano's Project Catalyst
 
@@ -86,4 +88,3 @@ Change the Story. Change the Future
 
 Laotse, Waldo and Me
 
-:smile:
