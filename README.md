@@ -1,6 +1,9 @@
 # start
 An opening page with links and important introductory info
 
+# update 2025-02-20
+I am archiving this ... or should I delete?  archive for now.
+
 # update 2024-11-02
 I have no idea what this 'site' is.  It's just a docs folder with a mkdocs.yml file.  I think it's mkdocs - https://www.mkdocs.org. 
 
